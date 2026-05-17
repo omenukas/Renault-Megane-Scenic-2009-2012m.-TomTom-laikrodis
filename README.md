@@ -19,4 +19,12 @@ Jeigu nuspręsite pats susitvarkyti, tai papasakosiu, kaip tai padaryti.
 
 # Veiksmų eilės tvarka
 
-1. 
+1. Patikrinti navigacijos versiją:
+- automobilio multimedijos valdymo joysticke paspausti ir palaikyti mygtuką "Info"
+
+![dashboard](screenshots/Joystick.PNG)
+
+ - ekrane pasirodys navigacijos versija
+
+![dashboard](screenshots/Version.PNG)
+- 
