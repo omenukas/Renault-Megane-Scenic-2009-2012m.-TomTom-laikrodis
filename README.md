@@ -4,7 +4,11 @@
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="42">
 </a>
 
-Šiame repozitoriume pateikiu keletą automatizacijų, kurios galėtų padėti valdyti ir prižiūrėti, kaupiklius, prijungtus prie Jūsų Solis įtampos keitiklio. Galima automatizacijas pritaikyti ir kitų gamintojų įtampos keitikliams, parenkant tinkamus sensorius, tačiau šis projektas paruoštas, naudojant [Solis modbus](https://github.com/Pho3niX90/solis_modbus) integraciją. Kadangi naudoju Waveshare modbus keitiklį, tai Solis integracijoje sensoriai turi atitinkamus pavadinimus, kuriuos automatizacijose jums gali reikėti pakoreguoti pagal savo sensorių atitinkamus pavadinimus.
-Mano Solis dashboard'as atrodo taip:
+2026m. balandžio mėnesį daug Renault Megane/Scenic, pagamintų 2009-2012m. su TomTom ne LIVE navigacijomis, nustojo rodyti laikrodį:
  
 ![dashboard](screenshots/clock.PNG)
+
+Čia trumpai aprašysiu, kaip galima pačiam greitai, turint kompiuterį su SD kortelių skaitytuvu, išspręsti šią problemą.
+
+Kadangi problema susijusi GPS modulio skaitliuko užsipildymu, tai tikėtina, kad ir nieko nedarant, rugpjūčio mėnesį laikrodis pats vėl pradės rodyti.
+Jeigu nuspręsite pats susitvarkyti, tai papasakosiu, kaip tai padaryti.
