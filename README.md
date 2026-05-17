@@ -12,3 +12,8 @@
 
 Kadangi problema susijusi GPS modulio skaitliuko užsipildymu, tai tikėtina, kad ir nieko nedarant, rugpjūčio mėnesį laikrodis pats vėl pradės rodyti.
 Jeigu nuspręsite pats susitvarkyti, tai papasakosiu, kaip tai padaryti.
+
+> [!IMPORTANT]
+> **SVARBU:**
+> - Tai ne oficialus problemos sprendimo būdas, todėl visas galima rizikas prisiimate patys.
+
