@@ -48,11 +48,16 @@ Failus `PNDNavigator` ir `ttsystem` nukopijuokite į savo kortelės šaknį. Ne�
 
 - paleiskite atsisiųstą programėlę FixTomTomClock.exe ir spaudžiame mygtuką tos versijos, kuri yra jūsų navigacija
 
-  ![dashboard](screenshots/Files.PNG)
+  ![dashboard](screenshots/softas.PNG)
 
   Mano kompiuteryje nėra kirilicos, todėl kai kur rodo klaustukus.
   Paspaudus reikiamos versijos mygtuką, paprašys nurodyti failą. Pasirinkite `PNDNavigator` failą, esantį kortelėje. Prasidės patch'inimas ir pabaigoje pasirodys lentelė `Done`
 
 7. Viskas!!! Išimate kortelę iš kompiuterio, statote į automobilio navigaciją, šiek tiek palaukiate kol užsikraus ir turi pradėti rodyti laikrodį.
+
+
+<a href="https://buymeacoffee.com/omenukas">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="42">
+</a>
 
   
