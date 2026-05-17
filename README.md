@@ -15,5 +15,8 @@ Jeigu nuspręsite pats susitvarkyti, tai papasakosiu, kaip tai padaryti.
 
 > [!IMPORTANT]
 > **SVARBU:**
-> - Tai ne oficialus problemos sprendimo būdas, todėl visas galima rizikas prisiimate patys.
+> - Tai ne oficialus problemos sprendimo būdas, o mano atrastas ir tikęs mano automobiliui, todėl visas galima rizikas prisiimate patys.
 
+# Veiksmų eilės tvarka
+
+1. 
