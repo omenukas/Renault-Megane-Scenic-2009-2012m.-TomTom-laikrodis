@@ -32,7 +32,7 @@ Jeigu nuspręsite pats susitvarkyti, tai papasakosiu, kaip tai padaryti.
 
 ![dashboard](screenshots/card_eject.PNG)
 
-3. Į kompiuterį, kuris turi SD kortelių skaitytuvą atsisiųskite ir išarchyvuokite programėlę [failai](DS_1.zip) [FixTomTomClock.zip](https://drive.google.com/file/d/1459pXDus8ZQI1bFFx61Q9VE9fPHTLEIF/view)
+3. Į kompiuterį, kuris turi SD kortelių skaitytuvą atsisiųskite ir išarchyvuokite programėlę [FixTomTomClock.zip](https://drive.google.com/file/d/1459pXDus8ZQI1bFFx61Q9VE9fPHTLEIF/view)
 
 ![dashboard](screenshots/FixTomTomClock.PNG)
 
@@ -43,3 +43,16 @@ Jeigu nuspręsite pats susitvarkyti, tai papasakosiu, kaip tai padaryti.
 ![dashboard](screenshots/Files.PNG)
 
 Failus `PNDNavigator` ir `ttsystem` nukopijuokite į savo kortelės šaknį. Nežinau ar būtina, bet radau, kad pataria į kortelę nukopijuoti ir visus kitus aplankus ir failus, kurių dar nėra kortelėje. Aš sukėliau viską (išskyrus vieną, kuris jau buvo) ir pas mane viskas veikia.
+
+6. Kai jau kortelėje turime failą `PNDNavigator`, galima pradėti patch'inimą:
+
+- paleiskite atsisiųstą programėlę FixTomTomClock.exe ir spaudžiame mygtuką tos versijos, kuri yra jūsų navigacija
+
+  ![dashboard](screenshots/Files.PNG)
+
+  Mano kompiuteryje nėra kirilicos, todėl kai kur rodo klaustukus.
+  Paspaudus reikiamos versijos mygtuką, paprašys nurodyti failą. Pasirinkite `PNDNavigator` failą, esantį kortelėje. Prasidės patch'inimas ir pabaigoje pasirodys lentelė `Done`
+
+7. Viskas!!! Išimate kortelę iš kompiuterio, statote į automobilio navigaciją, šiek tiek palaukiate kol užsikraus ir turi pradėti rodyti laikrodį.
+
+  
