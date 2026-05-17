@@ -32,4 +32,4 @@ Jeigu nuspręsite pats susitvarkyti, tai papasakosiu, kaip tai padaryti.
 
 ![dashboard](screenshots/card_eject.PNG)
 
-3. Į kompiuterį, kuris turi SD kortelių skaitytuvą atsisiųskite ir išarchyvuokite šiuos archyvus [failai](DS_1.zip) ir [Software](FixTomTomClock.zip).
+3. Į kompiuterį, kuris turi SD kortelių skaitytuvą atsisiųskite ir išarchyvuokite šiuos archyvus [failai](DS_1.zip) ir [FixTomTomClock.zip]([https://github.com/david-rapan/ha-solcast](https://drive.google.com/file/d/1459pXDus8ZQI1bFFx61Q9VE9fPHTLEIF/view))
